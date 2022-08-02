@@ -1,4 +1,4 @@
-package com.ll.exam;
+package com.ll.exam.home.controller;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
